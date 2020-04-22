@@ -1,3 +1,8 @@
+---
+layout: default
+title: Pip Courbois's GitHub Pages
+---
+
 ## Welcome to Pip's GitHub Pages
 
 Link to the public page is: [https://pipcourbois.github.io/](https://pipcourbois.github.io/)
