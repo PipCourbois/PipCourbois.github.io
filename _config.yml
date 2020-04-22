@@ -3,10 +3,3 @@ markdown: kramdown
 title: Welcome to Pip Courbois's github pages
 description: projects I am working on
 
-# List of links in the navigation bar
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - Guide to github pages: "http://jmcglone.com/guides/github-pages/"
-  LinkedIn: "https://www.linkedin.com/in/pipcourbois/"
