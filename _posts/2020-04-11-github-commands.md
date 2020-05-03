@@ -2,7 +2,7 @@
 
 #### Clone: 
 ~~~
-git clone https.from.github
+git clone https://github.com/PipCourbois/miscellaneous.git
 ~~~
 #### Add a local file: 
 ~~~
